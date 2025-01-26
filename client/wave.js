@@ -30,6 +30,6 @@ async function receivePayment(amount, aggregated_merchant_id=null){
 }
 
 receivePayment(450000)
-//payout(100, "+221781489736", "TEST002", client_name="Abdoul Aziz", )
+//payout(450000, "+221781489736", "TEST002", client_name="Abdoul Aziz", )
 
 
